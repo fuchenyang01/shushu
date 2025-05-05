@@ -1,0 +1,139 @@
+
+shushu.png
+size: 1920, 1093
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shushu_0
+  rotate: false
+  xy: 1817, 292
+  size: 100, 96
+  orig: 103, 98
+  offset: 2, 1
+  index: -1
+shushu_1
+  rotate: false
+  xy: 1817, 390
+  size: 101, 101
+  orig: 103, 103
+  offset: 1, 1
+  index: -1
+shushu_10
+  rotate: false
+  xy: 1817, 61
+  size: 92, 229
+  orig: 94, 231
+  offset: 1, 1
+  index: -1
+shushu_7
+  rotate: false
+  xy: 1817, 61
+  size: 92, 229
+  orig: 94, 231
+  offset: 1, 1
+  index: -1
+shushu_11
+  rotate: true
+  xy: 1890, 965
+  size: 126, 17
+  orig: 128, 19
+  offset: 1, 1
+  index: -1
+shushu_12
+  rotate: true
+  xy: 1836, 509
+  size: 189, 48
+  orig: 191, 50
+  offset: 1, 1
+  index: -1
+shushu_13
+  rotate: false
+  xy: 660, 287
+  size: 78, 27
+  orig: 80, 29
+  offset: 1, 1
+  index: -1
+shushu_14
+  rotate: false
+  xy: 1277, 700
+  size: 611, 391
+  orig: 611, 391
+  offset: 0, 0
+  index: -1
+shushu_15
+  rotate: false
+  xy: 1595, 493
+  size: 239, 205
+  orig: 239, 205
+  offset: 0, 0
+  index: -1
+shushu_16
+  rotate: true
+  xy: 1316, 39
+  size: 177, 154
+  orig: 181, 154
+  offset: 4, 0
+  index: -1
+shushu_17
+  rotate: false
+  xy: 2, 283
+  size: 656, 808
+  orig: 656, 809
+  offset: 0, 1
+  index: -1
+shushu_18
+  rotate: true
+  xy: 1595, 11
+  size: 480, 220
+  orig: 480, 220
+  offset: 0, 0
+  index: -1
+shushu_2
+  rotate: false
+  xy: 842, 2
+  size: 472, 312
+  orig: 472, 312
+  offset: 0, 0
+  index: -1
+shushu_3
+  rotate: false
+  xy: 660, 316
+  size: 615, 775
+  orig: 666, 775
+  offset: 51, 0
+  index: -1
+shushu_4
+  rotate: false
+  xy: 304, 6
+  size: 536, 275
+  orig: 536, 275
+  offset: 0, 0
+  index: -1
+shushu_5
+  rotate: false
+  xy: 1277, 334
+  size: 316, 364
+  orig: 318, 366
+  offset: 1, 1
+  index: -1
+shushu_6
+  rotate: false
+  xy: 1316, 218
+  size: 208, 114
+  orig: 208, 114
+  offset: 0, 0
+  index: -1
+shushu_9
+  rotate: false
+  xy: 1316, 218
+  size: 208, 114
+  orig: 208, 114
+  offset: 0, 0
+  index: -1
+shushu_8
+  rotate: true
+  xy: 2, 4
+  size: 277, 300
+  orig: 280, 303
+  offset: 1, 1
+  index: -1
